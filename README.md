@@ -1,16 +1,48 @@
-# React + Vite
+# 🎓 College Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **College Website** built using **React.js, Tailwind CSS, React-Scroll, and Web3Forms**.  
+This project provides a modern, responsive design to showcase college information, courses, facilities, and includes a **contact form** powered by Web3Forms.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## React Compiler
+👉 [Click Here to Visit College Website](https://your-live-preview-link.com)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)  
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwindcss)](https://tailwindcss.com/)  
+[![React Scroll](https://img.shields.io/badge/React--Scroll-Smooth--Navigation-green)](https://www.npmjs.com/package/react-scroll)  
+[![Web3Forms](https://img.shields.io/badge/Web3Forms-Contact%20Form-orange)](https://web3forms.com/)  
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com/)
+
+---
+
+## 📸 Preview
+
+![Homepage Screenshot](./src/assets/preview.PNG)
+
+---
+
+## 📌 Features
+
+- ⚡ Fast and responsive design
+- 🎨 Built with Tailwind CSS for modern styling
+- 📜 Smooth navigation with React-Scroll
+- 💬 Contact form powered by Web3Forms (no backend required)
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 🌙 Clean, minimal, and SEO-friendly structure
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/college-website.git
+cd college-website
+```
