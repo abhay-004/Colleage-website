@@ -7,7 +7,7 @@ This project provides a modern, responsive design to showcase college informatio
 
 ## 🔗 Live Demo
 
-👉 [Click Here to Visit College Website](https://your-live-preview-link.com)
+👉 [Click Here to Visit College Website](https://colleage-website.vercel.app/)
 
 ---
 
